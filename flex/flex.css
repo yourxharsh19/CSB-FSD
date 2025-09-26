@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+    border: 1px-solid black;
+ };
+.child1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.child2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.child3{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.child4{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+}
+.child5{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+.child6{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+}
+.child7{
+    background-color:brown;
+    width: 100px;
+    height: 100px;
+}
+.child8{
+    background-color:coral;
+    width: 100px;
+    height: 100px;
+}
+.child9{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 100px;
+}
+.child10{
+    background-color: violet;
+    width: 100px;
+    height: 100px;
+}
+
+
+
