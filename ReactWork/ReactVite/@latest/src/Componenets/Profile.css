@@ -1,0 +1,8 @@
+.parent{
+      border: 2px solid black;
+      background-color: lightgrey;
+      height: 300px;
+      width: 350px;
+      margin: auto;
+      text-align: center;
+}
